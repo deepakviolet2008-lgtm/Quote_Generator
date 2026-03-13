@@ -8,8 +8,8 @@ To create a simple thirukkural generator using HTML, CSS, and JavaScript that di
 #### 1. Create the HTML Structure:
 <ul>
   <li>Add a heading Thirukkural Generator</li>
-  <li>Use a ```<div>``` or ```<p>```to display the Thirukkural (Tamil couplet).</li>
-  <li>Use another ```<p>``` or ```<span>``` to display the meaning or explanation.</li>
+  <li>Use a div or p to display the Thirukkural (Tamil couplet).</li>
+  <li>Use another p or span to display the meaning or explanation.</li>
   <li>Add a button labeled “Get Thirukkural”.</li>
   <li>Add a label showing the Kural number.</li>
 </ul>
